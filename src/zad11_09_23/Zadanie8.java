@@ -1,3 +1,5 @@
+package zad11_09_23;
+
 import java.util.Scanner;
 
 public class Zadanie8 {

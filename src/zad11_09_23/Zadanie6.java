@@ -1,3 +1,5 @@
+package zad11_09_23;
+
 public class Zadanie6 {
     public static void main(String[] args) {
 

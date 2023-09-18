@@ -1,3 +1,5 @@
+package zad11_09_23;
+
 public class Zadanie1 {
     public static void main(String[] args) {
         System.out.print ("Według mnie najlepsze gry to: \n");

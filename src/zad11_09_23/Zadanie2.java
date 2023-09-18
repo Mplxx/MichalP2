@@ -1,3 +1,5 @@
+package zad11_09_23;
+
 public class Zadanie2 {
     public static void main(String[] args) {
         //today is 11.09.2023
